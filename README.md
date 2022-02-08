@@ -22,5 +22,5 @@ https://github.com/BeckyMWilson/becky-css-portfolio.git
 ![Last/Bottom Page](https://github.com/BeckyMWilson/Horiseon-Project/blob/main/assets/images/Screenshot3_HoriseonProject.png)
 
 ### Owner 
-Becky 
+Becky Wilson
 

@@ -10,7 +10,7 @@ Refactored the code given to ensure all links worked, CSS was consolidated, corr
  https://beckymwilson.github.io/Horiseon-Project/
 
  ## GitHub URL: 
-https://github.com/BeckyMWilson/becky-css-portfolio.git
+https://github.com/BeckyMWilson/Horiseon-Project.git
 
 
 ## Screenshot 
